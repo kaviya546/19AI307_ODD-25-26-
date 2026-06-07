@@ -5,6 +5,7 @@ Lovely has just started learning Java and is very excited about how to display m
 
 System.out.print() → prints on the same line
 
+
 System.out.println() → prints and moves to the next line
 
 System.out.printf() → prints formatted output
